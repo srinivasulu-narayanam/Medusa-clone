@@ -20,6 +20,8 @@ const Product = model
       .enum(ProductUtils.ProductStatus)
       .default(ProductUtils.ProductStatus.DRAFT),
     thumbnail: model.text().nullable(),
+    test_field: model.text().nullable(),
+    test_field1: model.text().nullable(),
     weight: model.text().nullable(),
     length: model.text().nullable(),
     height: model.text().nullable(),

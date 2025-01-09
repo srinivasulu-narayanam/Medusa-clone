@@ -48,6 +48,7 @@ export interface ProductDTO {
   /**
    * The width of the product.
    */
+  test_field: string | null
   width: number | null
   /**
    * The weight of the product.

@@ -29,6 +29,5 @@
   },
   "peerDependencies": {
     "zod": "^3.22"
-  },
-  "packageManager": "yarn@3.2.1"
+  }
 }

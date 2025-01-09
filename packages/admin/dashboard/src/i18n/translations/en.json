@@ -2206,7 +2206,7 @@
   },
   "store": {
     "domain": "Store",
-    "manageYourStoresDetails": "Manage your store's details",
+    "manageYourStoresDetails": "Manage your store's details testing",
     "editStore": "Edit store",
     "defaultCurrency": "Default currency",
     "defaultRegion": "Default region",

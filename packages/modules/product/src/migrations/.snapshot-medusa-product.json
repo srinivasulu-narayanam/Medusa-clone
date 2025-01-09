@@ -568,6 +568,24 @@
           "nullable": true,
           "mappedType": "text"
         },
+        "test_field": {
+          "name": "test_field",
+          "type": "text",
+          "unsigned": false,
+          "autoincrement": false,
+          "primary": false,
+          "nullable": true,
+          "mappedType": "text"
+        },
+        "test_field_1": {
+          "name": "test_field_1",
+          "type": "text",
+          "unsigned": false,
+          "autoincrement": false,
+          "primary": false,
+          "nullable": true,
+          "mappedType": "text"
+        },
         "weight": {
           "name": "weight",
           "type": "text",

@@ -15,6 +15,8 @@ type Product {
   is_giftcard: Boolean!
   status: ProductStatus!
   thumbnail: String
+  test_field: String
+  test_field1: String
   width: Float
   weight: Float
   length: Float
